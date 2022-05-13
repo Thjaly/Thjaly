@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/Thjaly" target="_blank">Thjaly</a> 
+<h1 align="left">Hi there, I'm <a href="https://github.com/Thjaly" target="_blank">Thjaly</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ![I have stolen this gif](https://c.tenor.com/a6pDrWf6gJgAAAAd/pixel-city-art.gif)
