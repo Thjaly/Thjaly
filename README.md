@@ -4,7 +4,6 @@
 ![I have stolen this gif](https://c.tenor.com/a6pDrWf6gJgAAAAd/pixel-city-art.gif)
 
 ## About me
-[![GitHub Snapi](https://img.shields.io/github/followers/Thjaly?label=follow&style=social)](https://github.com/Thjaly)
 
 I am a beginner and have recently become familiar with programming and<br/>
 I am currently writing my code in C++.
@@ -15,3 +14,4 @@ int main() {
     return 0;
 }
 ```
+[![GitHub Snapi](https://img.shields.io/github/followers/Thjaly?label=follow&style=social)](https://github.com/Thjaly)
